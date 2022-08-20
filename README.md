@@ -1,4 +1,15 @@
-# My expertise
+<h1 align="center">
+  <br>
+  <a href="https://instagram.com/_front_end_"><img src="./omid.jpg" alt="Nasimkhalili" width="200" style="border-radius: 50%"></a>
+  <a href="https://instagram.com/_front_end_"><img src="./logo.png" alt="Nasimkhalili" width="200"></a>
+  <br>
+ Nasim khalili
+ Nasim khalili (front-end)
+</h1>
+
+<h4 align="center">This is Nasim! A junior front end programmer!</h4>
+
+## My expertise
 + HTML
 + CSS
 + SASS
@@ -7,5 +18,5 @@
 + Redux
 + GraphQL
 
-# My social networks
+## My social networks
 [My instagram](http://instagram.com/_front_end_?igshid=YmMyMTAzMzY=, "My instagram") 
