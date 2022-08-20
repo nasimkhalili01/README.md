@@ -1,4 +1,8 @@
 # My expertise
-#### HTML
-
-
+##### HTML
+##### CSS
+##### SASS
+##### JavaScript
+##### React
+##### Redux
+##### GraphQL
