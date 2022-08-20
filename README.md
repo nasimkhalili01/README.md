@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://instagram.com/_front_end_"> <img src="./README/logo.png" alt="Nasimkhalili" width="200" style="border-radius: 50%"></a>
+  <a href="https://instagram.com/_front_end_"> <img src="./README/logo.png.jepg" alt="Nasimkhalili" width="200" style="border-radius: 50%"></a>
   
   <br>
   Nasim khalili
