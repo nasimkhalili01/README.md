@@ -8,7 +8,8 @@
  </h1>
 
 <h4 align="center">This is Nasim! A junior front end programmer!</h4>
-
+<br>
+<hr>
 ## My expertise
 + HTML
 + CSS
@@ -17,6 +18,6 @@
 + React
 + Redux
 + GraphQL
-
+<hr>
 ## My social networks
 [My instagram](http://instagram.com/_front_end_?igshid=YmMyMTAzMzY=, "My instagram") 
