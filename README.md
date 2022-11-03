@@ -7,6 +7,14 @@
 <h4 align="center">This is Nasim! A junior front end programmer!</h4>
 
 
+-  Student
+- 🌐 https://nasimkhalili.ir/
+- 💻 Computer Geek
+- 📌 Content producer
+- 🌐 Freelancer 
+- 📧 You can contact me with this email: nasimkhalili.01@gmail.com
+
+
 ## My expertise
 + HTML
 + CSS
