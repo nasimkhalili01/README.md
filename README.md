@@ -1,7 +1,6 @@
 <h1 align="center">  
   <br>
   Nasim khalili
-  Nasim khalili (front-end)
  </h1>
 
 <h4 align="center">This is Nasim! A junior front end programmer!</h4>
