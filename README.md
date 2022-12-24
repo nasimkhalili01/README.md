@@ -8,17 +8,22 @@
 > I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
 <br>
 <br>
+
+
 * 🌍 I'm based in Iran, Gilan
 * 🌐 https://nasimkhalili.ir/
 * 💻 Computer Geek
 * 📌 Content producer 
 * 📧 You can contact me with this email: NasimKhaliliprogrammer01@gmail.com
+
+
 <br>
-<br>
-<br>
+
 ## 📱Socials
 <p align="left"> <a href="https://www.github.com/nasimkhalili01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/front.end01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/NasimKhalili" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<br>
+
+
+
 <br>
 ## 🤙Contact Me
 <br>
