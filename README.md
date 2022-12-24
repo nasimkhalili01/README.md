@@ -29,6 +29,6 @@
 <br>
 <br>
 <p align="left">
-<a href="https://https://www.linkedin.com/in/NasimKhalili/"><img src="https://img.shields.io/badge/-NasimKhalili Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://https://www.linkedin.com/NasimKhalili/"><img src="https://img.shields.io/badge/-NasimKhalili Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:NasimKhaliliprogrammer01@gmail.com"><img src="https://img.shields.io/badge/-NasimKhaliliprogrammer01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
