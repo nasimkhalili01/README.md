@@ -20,7 +20,7 @@
 <br>
 
 ## 📱Socials
-<p align="left"> <a href="https://www.github.com/nasimkhalili01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/front.end01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/NasimKhalili" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/nasimkhalili01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/front.end01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nasim-khalili-8b242a25b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 
@@ -29,6 +29,6 @@
 <br>
 <br>
 <p align="left">
-<a href="https://https://www.linkedin.com/NasimKhalili/"><img src="https://img.shields.io/badge/-NasimKhalili Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://https://www.linkedin.com/NasimKhalili/](https://www.linkedin.com/in/nasim-khalili-8b242a25b/)"><img src="https://img.shields.io/badge/-NasimKhalili Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:NasimKhaliliprogrammer01@gmail.com"><img src="https://img.shields.io/badge/-NasimKhaliliprogrammer01@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
