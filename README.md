@@ -3,25 +3,25 @@
   Nasim khalili
  </h1>
 
-<h4 align="center">This is Nasim! A junior front end programmer!</h4>
+# 🤔 Who am Im?
+
+> I am familiar with new and advanced technologies such as React. I have worked in several teams over the years and resumes and projects are available on my GateHub and LinkedIn | My characteristics: interest in learning and training, teamwork 😍 and team leadership 🧑‍💻
+
+* 🌍 I'm based in Iran, Gilan
+* 🌐 https://nasimkhalili.ir/
+* 💻 Computer Geek
+* 📌 Content producer 
+* 📧 You can contact me with this email: nasimkhalili.01@gmail.com
+
+## 📱Socials
+
+<p align="left"> <a href="https://www.github.com/nasimkhalili01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/front.end01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/NasimKhalili" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
--  Student
-- 🌐 https://nasimkhalili.ir/
-- 💻 Computer Geek
-- 📌 Content producer
-- 🌐 Freelancer 
-- 📧 You can contact me with this email: nasimkhalili.01@gmail.com
+## 🤙Contact Me
 
 
-## My expertise
-+ HTML
-+ CSS
-+ JavaScript
-+ React
-+ Redux
-+ GraphQL
+<p align="left">
+<a href="https://https://www.linkedin.com/in/NasimKhalili/"><img src="https://img.shields.io/badge/-MahdiNazari Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:NasimKhaliliprogrammer01@gmail.com"><img src="https://img.shields.io/badge/-nazarii.eng@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-
-## My social networks
-[My instagram](http://instagram.com/_front_end_?igshid=YmMyMTAzMzY=, "My instagram") 
